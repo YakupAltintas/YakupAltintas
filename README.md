@@ -2,7 +2,7 @@
 
 # <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Selamlar,%20Ben%20Yakup%20Altıntaş!&fontSize=40&animation=fadeIn" width="100%" />
 
-### 👨‍💻 Bilgisayar Mühendisliği Öğrencisi & Yazılım Geliştirici
+### 👨‍💻 Bilgisayar Mühendisi & Yazılım Geliştirici
 *Kodun gücüyle yenilikçi dünyalar ve çözümler inşa ediyorum.*
 
 ---
@@ -54,6 +54,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakupaltintas/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EPOSTA_ADRESINIZ@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yakupaaltintas@gmail.com)
 
 </div>
