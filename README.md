@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1e88e5&height=230&section=header&text=Yakup%20Altıntaş&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1e88e5&height=230&section=header&text=Yakup%20Altintaş&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=42A5F5&center=true&vCenter=true&width=900&lines=Bilgisayar+Mühendisi;Yazılım+Geliştirici;Unity+%7C+React+Native+%7C+C%2B%2B;Clean+Code+%7C+High+Performance+%7C+AI" />
 
