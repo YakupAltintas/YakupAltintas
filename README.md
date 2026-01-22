@@ -80,16 +80,7 @@ Odak noktam: **yüksek performans**, **temiz mimari** ve **güçlü kullanıcı 
 
 </div>
 
----
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YakupAltintas&theme=tokyonight&hide_border=true" 
-    width="850"
-  />
-</p>
 
 ---
 
@@ -118,18 +109,6 @@ Odak noktam: **yüksek performans**, **temiz mimari** ve **güçlü kullanıcı 
     width="900"
   />
 </p>
-
----
-
-## 🐍 Katkı Haritam
-
-<p align="center">
-  <img src="https://github.com/YakupAltintas/YakupAltintas/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌐 Bana Ulaş
 
 <div align="center">
 
