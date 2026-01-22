@@ -1,4 +1,4 @@
-# Selamlar, Ben [Adın]! 👋
+# Selamlar, Ben [Yakup Altintaş]! 👋
 
 ### 👨‍💻 Bilgisayar Mühendisliği Öğrencisi & Yazılım Geliştirici
 
