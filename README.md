@@ -71,7 +71,6 @@ Amacım; kullanıcı deneyimi güçlü, performanslı ve ölçeklenebilir yazıl
 ## 🏆 Öne Çıkan Projeler
 
 ### 📡 Bagulan  
-<img src="https://www.bagulan.com/assets/images/logo/logo.png" width="100" />  
 Afet ve acil durumlar için geliştirilen yenilikçi haberleşme teknolojisi.  
 🔗 https://www.bagulan.com/
 
