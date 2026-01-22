@@ -6,11 +6,14 @@
 
 <br/>
 
+<a href="https://yakupaltintas.com">
+  <img src="https://img.shields.io/badge/Web-yakupaltintas.com-1E88E5?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/yakupaltintas/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:yakupaaltintas@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Gradient?style=for-the-badge&logo=gmail&logoColor=white&color=red" />
+  <img src="https://img.shields.io/badge/Email-yakupaaltintas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.bagulan.com/">
   <img src="https://img.shields.io/badge/Project-Bagulan-4CAF50?style=for-the-badge&logo=google-earth&logoColor=white" />
@@ -83,8 +86,8 @@ Odak noktam: **yüksek performans**, **temiz mimari** ve **güçlü kullanıcı 
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YakupAltintas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakupAltintas&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YakupAltintas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&width=450" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakupAltintas&layout=compact&theme=tokyonight&hide_border=true&width=450" width="48%" />
 </p>
 
 ---
@@ -93,11 +96,14 @@ Odak noktam: **yüksek performans**, **temiz mimari** ve **güçlü kullanıcı 
 
 <div align="center">
 
+<a href="https://yakupaltintas.com">
+  <img src="https://img.shields.io/badge/Web-yakupaltintas.com-1E88E5?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/yakupaltintas/">
-  <img src="https://img.shields.io/badge/LinkedIn-Gradient?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:yakupaaltintas@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Gradient?style=for-the-badge&logo=gmail&logoColor=white&color=red" />
+  <img src="https://img.shields.io/badge/Gmail-yakupaaltintas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
