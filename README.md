@@ -85,8 +85,6 @@ Odak noktam: **yüksek performans**, **temiz mimari** ve **güçlü kullanıcı 
 
 ## 📊 GitHub İstatistiklerim
 
-## 📊 GitHub İstatistiklerim
-
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=YakupAltintas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=420" 
@@ -99,7 +97,6 @@ Odak noktam: **yüksek performans**, **temiz mimari** ve **güçlü kullanıcı 
     height="170"
   />
 </p>
-
 
 ---
 
