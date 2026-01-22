@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Selamlar,%20Ben%20Yakup%20Altıntaş!&fontSize=40&animation=fadeIn" width="100%" />
+# <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=200&section=header&text=Selamlar,%20Ben%20Yakup%20Altıntaş!&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 ### 👨‍💻 Bilgisayar Mühendisi & Yazılım Geliştirici
 *Kodun gücüyle yenilikçi dünyalar ve çözümler inşa ediyorum.*
