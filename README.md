@@ -1,81 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d47a1&height=140&section=header&text=Yakup%20Altıntaş&fontSize=36&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1e88e5&height=230&section=header&text=Yakup%20Altıntaş&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<h3>Bilgisayar Mühendisi • Yazılım Geliştirici</h3>
-<p><em>Performans, sadelik ve sürdürülebilir mimari odaklı yazılımlar geliştiriyorum.</em></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=42A5F5&center=true&vCenter=true&width=900&lines=Bilgisayar+Mühendisi;Yazılım+Geliştirici;Unity+%7C+React+Native+%7C+C%2B%2B;Clean+Code+%7C+High+Performance+%7C+AI" />
 
-<p>
-  <img src="https://img.shields.io/badge/Unity-black?style=flat&logo=unity" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React%20Native-20232a?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/yakupaltintas/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:yakupaaltintas@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Gradient?style=for-the-badge&logo=gmail&logoColor=white&color=red" />
+</a>
+<a href="https://www.bagulan.com/">
+  <img src="https://img.shields.io/badge/Project-Bagulan-4CAF50?style=for-the-badge&logo=google-earth&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## Hakkımda
+## ✨ Hakkımda
 
-Merhaba, ben **Yakup Altıntaş**.  
-Oyun geliştirme, mobil & web uygulamaları ve sistem programlama alanlarında çalışıyorum.  
-Amacım; **temiz kod**, **yüksek performans** ve **ölçeklenebilir mimari** prensipleriyle kalıcı ürünler üretmek.
+> **Kod yazmıyorum. Sistem inşa ediyorum.**
+
+Merhaba! Ben **Yakup Altıntaş**.  
+Oyun geliştirme, mobil & web uygulamaları ve sistem programlama alanlarında aktif olarak projeler üretiyorum.  
+Odak noktam: **yüksek performans**, **temiz mimari** ve **güçlü kullanıcı deneyimi**.
 
 ---
 
-## Uzmanlık Alanlarım
+## 🧭 Uzmanlık Alanlarım
 
-- 🎮 Unity & C# ile oyun mekaniği ve sistem geliştirme  
-- 📱 React / React Native ile mobil & web uygulamaları  
-- ⚙️ C++ ile performans odaklı yazılım geliştirme  
+- 🎮 Unity & C# ile oyun mekaniği, fizik ve gameplay sistemleri  
+- 📱 React / React Native ile modern mobil & web uygulamaları  
+- ⚙️ C++ ile düşük seviye, yüksek performanslı çözümler  
 - 🤖 Yapay zeka projeleri (Teknofest Sağlıkta AI)
 
 ---
 
-## Teknolojiler
+## 🛠 Teknoloji Stack
 
-**Oyun:** Unity, C#  
-**Frontend:** React, React Native  
-**Backend:** Python, Strapi  
-**Sistem:** C++  
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,react,python&theme=light" />
 
-## Öne Çıkan Projeler
-
-### Bagulan  
-Afet ve acil durumlar için geliştirilen yenilikçi haberleşme teknolojisi  
-https://www.bagulan.com  
+</div>
 
 ---
 
-### Kelime Sihirbazı  
-React Native ile geliştirilen mobil kelime oyunu  
+## 🏆 Öne Çıkan Projeler
+
+<div align="center">
+
+### 📡 Bagulan  
+<img src="https://www.bagulan.com/assets/images/logo/logo.png" width="110" />  
+**Afet ve acil durumlar için geliştirilen yenilikçi haberleşme teknolojisi**  
+<a href="https://www.bagulan.com/">
+  <img src="https://img.shields.io/badge/Projeyi%20Gör-4CAF50?style=for-the-badge" />
+</a>
 
 ---
 
-### Teknofest – Sağlıkta AI  
-Yapay zeka destekli sağlık çözümleri üzerine yarışma projesi  
+### ✨ Kelime Sihirbazı  
+**React Native ile geliştirilen eğlenceli ve dinamik mobil kelime oyunu**  
+<a href="#">
+  <img src="https://img.shields.io/badge/Demo%20Yakında-FF9800?style=for-the-badge" />
+</a>
 
 ---
 
-## GitHub İstatistikleri
+### 🏥 Teknofest – Sağlıkta AI  
+**Yapay zeka destekli sağlık çözümleri üzerine yarışma projemiz**  
+<a href="#">
+  <img src="https://img.shields.io/badge/Detaylar-9C27B0?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YakupAltintas&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakupAltintas&layout=compact&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YakupAltintas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakupAltintas&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
 
-## İletişim
+## 🌐 Bana Ulaş
 
-- LinkedIn: https://www.linkedin.com/in/yakupaltintas/  
-- Email: yakupaaltintas@gmail.com  
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yakupaltintas/">
+  <img src="https://img.shields.io/badge/LinkedIn-Gradient?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" />
+</a>
+<a href="mailto:yakupaaltintas@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Gradient?style=for-the-badge&logo=gmail&logoColor=white&color=red" />
+</a>
+
+</div>
 
 ---
 
-> *"Simple code scales. Complex code breaks."*
+<div align="center">
+
+✨ *"Clean code is not a luxury. It's a responsibility."* ✨  
+
+</div>
