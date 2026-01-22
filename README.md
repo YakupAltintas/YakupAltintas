@@ -1,4 +1,4 @@
-# Selamlar, Ben [Yakup Altintaş]! 👋
+# Selamlar, Ben Yakup Altintaş! 👋
 
 ### 👨‍💻 Bilgisayar Mühendisliği Öğrencisi & Yazılım Geliştirici
 
@@ -29,7 +29,7 @@ Yazılım dünyasında hem mobil uygulama geliştirme hem de oyun motorlarının
 ### 🏆 Öne Çıkan Projeler
 
 * **Kelime Sihirbazı:** React Native ile geliştirilmiş, sürükleyici bir mobil kelime oyunu.
-* **Yevmiye Defterim:** Çalışanlar ve işverenler için günlük ücret takibi sağlayan pratik bir mobil çözüm.
+* **Bagulan:** Afet ve acil durumlarda haberleşme teknolojisi.
 * **Teknofest Sağlıkta AI:** Sağlık alanında yapay zeka çözümleri ürettiğimiz yarışma projemiz.
 
 ---
