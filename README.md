@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1e88e5&height=230&section=header&text=Yakup%20Altintaş&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1e88e5&height=230&section=header&text=Yakup%20Altıntaş&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=42A5F5&center=true&vCenter=true&width=900&lines=Bilgisayar+Mühendisi;Yazılım+Geliştirici;Unity+%7C+React+Native+%7C+C%2B%2B;Clean+Code+%7C+High+Performance+%7C+AI" />
 
@@ -18,6 +18,14 @@
 <a href="https://www.bagulan.com/">
   <img src="https://img.shields.io/badge/Project-Bagulan-4CAF50?style=for-the-badge&logo=google-earth&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YakupAltintas&label=Profile%20Views&color=1e88e5&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/YakupAltintas?label=Followers&style=for-the-badge&color=42A5F5" />
+  <img src="https://img.shields.io/github/stars/YakupAltintas?label=Total%20Stars&style=for-the-badge&color=FFD54F" />
+</p>
 
 </div>
 
@@ -74,6 +82,17 @@ Odak noktam: **yüksek performans**, **temiz mimari** ve **güçlü kullanıcı 
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YakupAltintas&theme=tokyonight&hide_border=true" 
+    width="850"
+  />
+</p>
+
+---
+
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
@@ -87,6 +106,25 @@ Odak noktam: **yüksek performans**, **temiz mimari** ve **güçlü kullanıcı 
     width="420" 
     height="170"
   />
+</p>
+
+---
+
+## 📈 Aktivite Grafiğim
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YakupAltintas&theme=tokyo-night&hide_border=true" 
+    width="900"
+  />
+</p>
+
+---
+
+## 🐍 Katkı Haritam
+
+<p align="center">
+  <img src="https://github.com/YakupAltintas/YakupAltintas/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
