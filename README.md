@@ -37,12 +37,12 @@ Yazılım dünyasında hem mobil uygulama geliştirme hem de oyun motorlarının
 ### 📊 GitHub İstatistiklerim
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=radical" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=YakupAltintas&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakupAltintas&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
 
 ### 📫 Bana Ulaşın
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINKIN_ADRESIN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakupaltintas/)
