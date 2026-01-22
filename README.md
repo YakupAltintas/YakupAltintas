@@ -85,10 +85,21 @@ Odak noktam: **yüksek performans**, **temiz mimari** ve **güçlü kullanıcı 
 
 ## 📊 GitHub İstatistiklerim
 
+## 📊 GitHub İstatistiklerim
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YakupAltintas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&width=450" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakupAltintas&layout=compact&theme=tokyonight&hide_border=true&width=450" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YakupAltintas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=420" 
+    width="420" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakupAltintas&layout=compact&theme=tokyonight&hide_border=true&card_width=420" 
+    width="420" 
+    height="170"
+  />
 </p>
+
 
 ---
 
