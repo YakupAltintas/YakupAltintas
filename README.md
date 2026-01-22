@@ -15,7 +15,6 @@
 
 ## 🚀 Hakkımda
 
-Merhaba! Ben **Yakup Altıntaş**.  
 Oyun geliştirme, mobil & web uygulamaları ve sistem programlama alanlarında aktif olarak projeler üretiyorum.  
 Amacım; kullanıcı deneyimi güçlü, performanslı ve ölçeklenebilir yazılımlar geliştirmek.
 
