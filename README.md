@@ -56,28 +56,19 @@ Odak noktam: **yüksek performans**, **temiz mimari** ve **güçlü kullanıcı 
 
 <div align="center">
 
-### 📡 Bagulan  
+### 📡 [Bagulan](https://www.bagulan.com)  
 <img src="https://www.bagulan.com/assets/images/logo/logo.png" width="110" />  
-**Afet ve acil durumlar için geliştirilen yenilikçi haberleşme teknolojisi**  
-<a href="https://www.bagulan.com/">
-  <img src="https://img.shields.io/badge/Projeyi%20Gör-4CAF50?style=for-the-badge" />
-</a>
+**Afet ve acil durumlar için geliştirilen yenilikçi haberleşme teknolojisi**
 
 ---
 
-### ✨ Kelime Sihirbazı  
-**React Native ile geliştirilen eğlenceli ve dinamik mobil kelime oyunu**  
-<a href="#">
-  <img src="https://img.shields.io/badge/Demo%20Yakında-FF9800?style=for-the-badge" />
-</a>
+### ✨ [Kelime Sihirbazı](https://github.com/YakupAltintas)  
+**React Native ile geliştirilen eğlenceli ve dinamik mobil kelime oyunu**
 
 ---
 
-### 🏥 Teknofest – Sağlıkta AI  
-**Yapay zeka destekli sağlık çözümleri üzerine yarışma projemiz**  
-<a href="#">
-  <img src="https://img.shields.io/badge/Detaylar-9C27B0?style=for-the-badge" />
-</a>
+### 🏥 [Teknofest – Sağlıkta AI](https://github.com/YakupAltintas)  
+**Yapay zeka destekli sağlık çözümleri üzerine yarışma projemiz**
 
 </div>
 
