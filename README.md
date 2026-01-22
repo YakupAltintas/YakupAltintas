@@ -34,9 +34,9 @@
 
 ### 🏆 Öne Çıkan Projeler
 
-* ✨ **Kelime Sihirbazı:** React Native ile geliştirilen eğlenceli kelime oyunu.
-* 📡 **Bagulan:** Afet ve acil durumlar için özel haberleşme teknolojisi.
-* 🏥 **Teknofest Sağlıkta AI:** Yapay zeka destekli sağlık çözümleri.
+* 📡 **[Bagulan](https://www.bagulan.com/):** <img src="https://www.bagulan.com/assets/images/logo/logo.png" width="80" valign="middle"> Afet ve acil durumlar için geliştirilen yenilikçi haberleşme teknolojisi.
+* ✨ **Kelime Sihirbazı:** React Native ile geliştirilen eğlenceli ve dinamik mobil kelime oyunu.
+* 🏥 **Teknofest Sağlıkta AI:** Yapay zeka destekli sağlık çözümleri üzerine uzmanlaşmış yarışma projemiz.
 
 ---
 
